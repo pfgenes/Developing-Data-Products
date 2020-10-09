@@ -1,0 +1,39 @@
+Developing_Data_Products
+========================================================
+author: Gene
+date: 09 Octobter 2020
+autosize: true
+transition-speed: slow
+
+Overview
+========================================================
+
+This presentation describes the Developing Data Products Course Project. The project chosen for this presentation is an application to analyze different professional basketball leagues around the world. 
+
+This application includes data regarding the season, free throw, field goal and three point percentages for leagues around the world. It totals 49 leagues over a 20 year span.
+
+Slide With Code
+========================================================
+- The shiny application in this presentation is **here**(https://pfgenes.shinyapps.io/Developing_Data_Products_Project/)
+- The shiny app source code is here
+
+
+The Data
+========================================================
+
+The data was obtained from kaggle and contains a lot more data including but not limited to:
+- total free throws attempted / made
+- total field goals attempted / made
+- turnovers
+- rebounds
+- Country of origin
+- Player name
+
+The link is here
+
+Purpose
+========================================================
+
+It performs a linear regression and plots the data where it is easy to compare two leagues.An average throughout the 20 years is also provided. It is meant to begin to understand how the leagues differ and to begin an analysis of where the strengths of each leagues lies with respect to the other leagues.
+
+Future analysis would include defensive traits since some of this data may not tell the whole story of the strengths of the leagues.
